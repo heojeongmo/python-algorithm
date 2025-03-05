@@ -1,4 +1,4 @@
-# [Bronze V] ??! - 10926 
+# [Bronze V] 입출력(10926번)
 
 [문제 링크](https://www.acmicpc.net/problem/10926) 
 
